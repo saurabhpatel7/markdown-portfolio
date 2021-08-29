@@ -1,2 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-<i> Python java sql </i>
+Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or<i> skills.</i> 
+
